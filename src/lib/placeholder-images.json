@@ -1,3 +1,94 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A preview of the CollabSpace dashboard",
+      "imageUrl": "https://images.unsplash.com/photo-1748609339084-ea43ec1b8fbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXNoYm9hcmQlMjBvZmZpY2V8ZW58MHx8fHwxNzcwNTc3NjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard office"
+    },
+    {
+      "id": "user1",
+      "description": "Avatar for Alex Rivera",
+      "imageUrl": "https://images.unsplash.com/photo-1609505848912-b7c3b8b4beda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MDUyNTc0NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "user2",
+      "description": "Avatar for Samantha Bee",
+      "imageUrl": "https://images.unsplash.com/photo-1579503841516-e0bd7fca5faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMGZhY2V8ZW58MHx8fHwxNzcwNDczNzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "user3",
+      "description": "Avatar for David Chen",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzA1MTgxMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "user4",
+      "description": "Avatar for Maria Garcia",
+      "imageUrl": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBzbWlsaW5nfGVufDB8fHx8MTc3MDU2NTcyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "user5",
+      "description": "Avatar for Kenji Tanaka",
+      "imageUrl": "https://images.unsplash.com/photo-1624395213043-fa2e123b2656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBmYWNlfGVufDB8fHx8MTc3MDUyMTgzNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man face"
+    },
+    {
+      "id": "user6",
+      "description": "Avatar for Olivia Martinez",
+      "imageUrl": "https://images.unsplash.com/photo-1524255684952-d7185b509571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b21hbiUyMGdsYXNzZXN8ZW58MHx8fHwxNzcwNTU5MDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman glasses"
+    },
+    {
+      "id": "project1",
+      "description": "Thumbnail for Q3 Marketing Campaign",
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMGRlc2lnbnxlbnwwfHx8fDE3NzA0ODU3MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract design"
+    },
+    {
+      "id": "project2",
+      "description": "Thumbnail for Website Redesign",
+      "imageUrl": "https://images.unsplash.com/photo-1648260295976-de09f77ab469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWJzaXRlJTIwd2lyZWZyYW1lfGVufDB8fHx8MTc3MDU3NzYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "website wireframe"
+    },
+    {
+      "id": "project3",
+      "description": "Thumbnail for Mobile App Launch",
+      "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtb2JpbGUlMjBwaG9uZXxlbnwwfHx8fDE3NzA1Mjk5MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile phone"
+    },
+    {
+      "id": "project4",
+      "description": "Thumbnail for Annual Report 2024",
+      "imageUrl": "https://images.unsplash.com/photo-1504607798333-52a30db54a5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxidXNpbmVzcyUyMGNoYXJ0fGVufDB8fHx8MTc3MDUzNjA4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business chart"
+    },
+    {
+      "id": "course1",
+      "description": "Thumbnail for Advanced Collaboration Techniques",
+      "imageUrl": "https://images.unsplash.com/photo-1624555130581-1d9cca783bc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0ZWFtJTIwbWVldGluZ3xlbnwwfHx8fDE3NzA0OTA1MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team meeting"
+    },
+    {
+      "id": "course2",
+      "description": "Thumbnail for Mastering Project Management",
+      "imageUrl": "https://images.unsplash.com/photo-1686061592689-312bbfb5c055?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW50dCUyMGNoYXJ0fGVufDB8fHx8MTc3MDU3NzYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gantt chart"
+    },
+    {
+      "id": "course3",
+      "description": "Thumbnail for Effective Remote Communication",
+      "imageUrl": "https://images.unsplash.com/photo-1713947506048-80f76419b2fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aWRlbyUyMGNhbGx8ZW58MHx8fHwxNzcwNTc3NjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video call"
+    },
+    {
+      "id": "course4",
+      "description": "Thumbnail for AI in the Modern Workplace",
+      "imageUrl": "https://images.unsplash.com/photo-1673255745677-e36f618550d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2JvdCUyMGJyYWlufGVufDB8fHx8MTc3MDU1NjgzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robot brain"
+    }
+  ]
 }
