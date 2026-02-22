@@ -1,6 +1,6 @@
 # 🤝 Collab Space – Real-Time Collaborative Workspace
 
-Collab Space is a modern, real-time collaboration platform designed for teams, students, and creators to co-edit documents, communicate instantly, and manage shared projects—all within a secure, role-based workspace enhanced by AI assistance.
+Collab  Space is a modern, real-time collaboration platform designed for teams, students, and creators to co-edit documents, communicate instantly, and manage shared projects—all within a secure, role-based workspace enhanced by AI assistance.
 
 It brings documents, discussions, and activity tracking together into one seamless collaborative experience.
 
